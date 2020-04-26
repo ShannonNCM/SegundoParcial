@@ -5,7 +5,7 @@ Compilado: gcc Problema2.c -o Problema2.c
 Fecha: mar abr 21 14:17:31 CST 2020
 Librerias: stdio, etc.
 Resumen: El programa obtiene la raiz aproximada de la funcion cos(x)/sin(x) en un intervalo indicado por el usuario si existe.
-Entradas: Limites de los intervalos enteros o decimales, numero de iteraciones enteros y tolerancia decimal
+Entradas: Limites de los intervalos enteros o decimales, numero de iteraciones entero y tolerancia en decimales.
 Salidas: Raiz aproximada de la funcion decimales, numero de iteraciones enteros.
 */
   
